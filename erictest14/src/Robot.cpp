@@ -16,6 +16,7 @@
 #include "Commands/MyAutoCommand.h"
 
 /* This is a comment */
+/* This is a second comment */
 
 class Robot : public frc::TimedRobot {
 public:
