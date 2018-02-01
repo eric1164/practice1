@@ -15,6 +15,8 @@
 #include "Commands/ExampleCommand.h"
 #include "Commands/MyAutoCommand.h"
 
+/* This is a comment */
+
 class Robot : public frc::TimedRobot {
 public:
 	void RobotInit() override {
